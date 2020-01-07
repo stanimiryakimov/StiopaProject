@@ -1,0 +1,5 @@
+/Users/stanyakimov/Projects/StiopaProject/StiopaProject/bin/Debug/StiopaProject.exe
+/Users/stanyakimov/Projects/StiopaProject/StiopaProject/bin/Debug/StiopaProject.pdb
+/Users/stanyakimov/Projects/StiopaProject/StiopaProject/obj/Debug/StiopaProject.csprojAssemblyReference.cache
+/Users/stanyakimov/Projects/StiopaProject/StiopaProject/obj/Debug/StiopaProject.exe
+/Users/stanyakimov/Projects/StiopaProject/StiopaProject/obj/Debug/StiopaProject.pdb

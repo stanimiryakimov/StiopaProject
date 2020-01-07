@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{FB9A6FD6-A934-4E0F-B688-1F4D9E20EE26}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="StiopaProject/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StiopaProject/EmptyClass.cs">
     <Files>
-      <File FileName="StiopaProject/Program.cs" Line="9" Column="47" />
+      <File FileName="StiopaProject/Program.cs" Line="13" Column="1" />
+      <File FileName="StiopaProject/EmptyClass.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StiopaProject" expanded="True">
             <Node name="StiopaProject" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="EmptyClass.cs" selected="True" />
             </Node>
           </Node>
         </State>
